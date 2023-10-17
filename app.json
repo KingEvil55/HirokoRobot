@@ -1,9 +1,9 @@
 {
-    "name": "ʜɪʀᴏᴋᴏ ʀᴏʙᴏᴛ",
-    "logo": "https://te.legra.ph/file/086426b04c04a3c16f558.jpg",
+    "name": "Gojo ʀᴏʙᴏᴛ",
+    "logo": "https://graph.org/file/5e5c5bd429a42372f3b6d.jpg",
     "description": "sɪᴍᴘʟᴇ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴏʀ ᴛʜɪs ʙᴏᴛ ᴍᴀɪɴ ᴘᴜʀᴘᴏsᴇ sᴘʀᴇᴀᴅ ʜᴀᴘᴘɪɴᴇss.",
     "keywords": ["management", "assistant", "pyrogram"],
-    "repository": "https://github.com/Sumit0045/HirokoRobot",
+    "repository": "https://github.com/KingEvil55/HirokoRobot",
     "stack": "container",
     "env": {
         "BOT_USERNAME": {
