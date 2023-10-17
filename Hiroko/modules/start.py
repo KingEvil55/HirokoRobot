@@ -90,8 +90,8 @@ async def start(client: Client, message: Message):
                 InlineKeyboardButton("➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
             ],
             [
-                InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/DevsOops"),
-                InlineKeyboardButton("ᴍᴀɪɴᴛᴀɪɴᴇʀ", url="https://t.me/AnonDeveloper"),
+                InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/miss_x_network"),
+                InlineKeyboardButton("ᴍᴀɪɴᴛᴀɪɴᴇʀ", url="https://t.me/i_am_dead_smile"),
             ],
             [
                 InlineKeyboardButton("ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_")
@@ -125,8 +125,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
             ],
             [
-                InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/DevsOops"),
-                InlineKeyboardButton("ᴍᴀɪɴᴛᴀɪɴᴇʀ", url="https::/t.me/AnonDeveloper"),
+                InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/miss_x_network"),
+                InlineKeyboardButton("ᴍᴀɪɴᴛᴀɪɴᴇʀ", url="https::/t.me/i_am_dead_smile"),
             ],
             [
                 InlineKeyboardButton("ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_")
