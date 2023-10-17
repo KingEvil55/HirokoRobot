@@ -1,4 +1,4 @@
-#  ˹ʜɪʀᴏᴋᴏ ꝛᴏʙᴏᴛ˼ 
+#  Gojo Robot 
 
 <p align="center"><img src="https://graph.org/file/5e5c5bd429a42372f3b6d.jpg" width="300"></a></p>
 <p align="center">
