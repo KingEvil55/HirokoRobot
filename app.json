@@ -1,6 +1,6 @@
 {
-    "name": "Gojo Robot",
-    "logo": "https://graph.org/file/5e5c5bd429a42372f3b6d.jpg",
+    "name": "ʜɪʀᴏᴋᴏ ʀᴏʙᴏᴛ",
+    "logo": "https://te.legra.ph/file/086426b04c04a3c16f558.jpg",
     "description": "sɪᴍᴘʟᴇ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴏʀ ᴛʜɪs ʙᴏᴛ ᴍᴀɪɴ ᴘᴜʀᴘᴏsᴇ sᴘʀᴇᴀᴅ ʜᴀᴘᴘɪɴᴇss.",
     "keywords": ["management", "assistant", "pyrogram"],
     "repository": "https://github.com/KingEvil55/HirokoRobot",
@@ -33,7 +33,7 @@
     },   
     
     {
-      "url": "https://github.com/KingEvil55/heroku-buildpack-ffmpeg-latest.git"
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
     }
   ]
     "stack": "container"
